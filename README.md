@@ -1,6 +1,7 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+A simple portfolio template for developer/designers built with React.
+Also, GG173002 Yuhan Kim used this template for test.
 
 ### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
@@ -13,12 +14,13 @@ A simple portfolio template for developer/designers built with React.
 - Contact Form With EmailJs
 - React-Bootstrap
 - Edit Content From One Place
+- Some Cards Info for the Game 'Slay_The_Spire'
 
 ### Setup
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/4oanpe/react-portfolio.git</pre>
  
 Install required dependencies
 
